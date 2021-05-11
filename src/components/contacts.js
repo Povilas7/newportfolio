@@ -12,7 +12,7 @@ function Contacts() {
                 </div>
                 <div className='d-flex'>
                     <i className="fas fa-mail-bulk"></i>
-                    <p className='gameText'>Email povilas.misiunas@gmail.com</p>
+                    <p className='gameText'>Email: povilas.misiunas@gmail.com</p>
                 </div>
 
 
