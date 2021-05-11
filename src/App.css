@@ -32,6 +32,10 @@ a{
   min-height: 150px;
   background: #565656;
 }
+.a{
+  font-size: 25px;
+  margin: 25px 10px;
+}
 .toolbar p{
   font-weight: 700;
   text-align: center;
@@ -219,6 +223,7 @@ a{
   height: 50px;
   display: flex;
   justify-content: center;
+  align-items: baseline;
 }
 i{
   font-size: 40px;
